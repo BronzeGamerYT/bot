@@ -19,4 +19,4 @@ Read the [Contributing Guide](https://pythondiscord.com/pages/contributing/bot/)
 [5]: https://github.com/python-discord/bot/workflows/Deploy/badge.svg?branch=main
 [6]: https://github.com/python-discord/bot/actions?query=workflow%3ADeploy+branch%3Amain
 [7]: https://raw.githubusercontent.com/python-discord/branding/main/logos/badge/badge_github.svg
-[8]: https://discord.gg/python
+[8]: https://discord.gg/pyth
